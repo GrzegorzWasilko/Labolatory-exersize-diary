@@ -1,5 +1,6 @@
-# Labolatory-exersize-diary
- It is intended to be a diary to help you track your exercise progress, in future predict progress
+# Underconstruction Labolatory-exersize-diary
+ It is intended : track  exercise progress 
+ future predict progress
  
  target structure : ├── Diary
                     │   ├── __init__.py
